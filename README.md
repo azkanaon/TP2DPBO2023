@@ -39,6 +39,7 @@ dispesifikasikan. Aamiin.
 1. Setelah melakukan insert data dan update data, foto yang telah masuk datanya ke database tidak ter-reset (field tidak menjadi kosong)
 2. Dalam combo box pemilihan pelukis, tidak ada nama pelukisnya
 3. Pelukis tidak bisa dilakukan penambahan / pengurangan / pengeditan data
+4. Jika melakukan add data diawal, kemudian ingin update data, maka foto yang terpasang adalah foto ketika add data (harus logout terlebih dahulu untuk menghilangkan foto atau choose foto dari file)
 
 
 
